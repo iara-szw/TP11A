@@ -6,11 +6,11 @@ header{
     padding:1%;
     margin-top:0%;
 }
-  .titulo {
+.titulo {
     width: 100%;
     display: grid;
     grid-template-rows: 1fr;
-    grid-template-columns: 70% 29%;
+    grid-template-columns: 70% 20%;
     gap: 8px 1%;
   }
   .nombre p{
@@ -20,6 +20,7 @@ header{
     width:15%;
   }
   .albumes {
+    margin-top:2.5%;
     width: 100%;
     padding:5%;
     display: grid;
